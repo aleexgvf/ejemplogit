@@ -1,0 +1,50 @@
+﻿commit a095d4eea8dfe301e6850d0ece1e88f04fb72393
+
+Author: Germán Alejandro Velázquez Fajardo <aleex_xvx@hotmail.com>
+
+Date:   Tue Jul 4 11:39:08 2017 -0600
+
+    
+Se agrego Bootstrap
+
+
+
+commit 193b1739999d01041c7e40e6fb92a29c8b285bbe
+
+Author: Germán Alejandro Velázquez Fajardo <aleex_xvx@hotmail.com>
+
+Date:   Tue Jul 4 11:26:47 2017 -0600
+
+    
+Se agrego pied de pagina
+
+
+
+commit ac143b45b33674868c2218662db2ff5a7d6f02a1
+
+Author: Germán Alejandro Velázquez Fajardo <aleex_xvx@hotmail.com>
+
+Date:   Tue Jul 4 11:21:45 2017 -0600
+
+ 
+Se agrego Texto e imagen al archivo.
+
+commit 07d07e7da84ed6763d26be8e659ed668b6ebdd7f
+
+Author: Germán Alejandro Velázquez Fajardo <aleex_xvx@hotmail.com>
+
+Date:   Tue Jul 4 11:15:50 2017 -0600
+
+    
+Se le agrego titulo a la pagina
+
+
+
+commit 5d1a20df01ef9fef1b92963f1c07cd09c850d693
+
+Author: Germán Alejandro Velázquez Fajardo <aleex_xvx@hotmail.com>
+
+Date:   Tue Jul 4 11:09:07 2017 -0600
+
+    
+Estructura inicial del proyecto
